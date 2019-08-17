@@ -84,6 +84,7 @@ import Drawer from '../packages/drawer/index.js';
 import locale from 'element-ui/src/locale';
 import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
 
+
 const components = [
   Pagination,
   Dialog,
